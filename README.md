@@ -1,8 +1,6 @@
 # Project Title
 
-Provide a concise description of your project here. For example:
-
-"This repository contains [Project Name], a tool for [brief description of what it does]. The project leverages Python libraries such as NumPy, Matplotlib, and SciPy to [key functionality]."
+"This repository contains Visualization Tools for Optimization and Multivariable Calculus.
 
 ---
 
@@ -18,7 +16,6 @@ Ensure you have the following installed on your system:
 
    ```bash
    git clone <repository_url>
-   cd <repository_directory>
    ```
 
 2. Set up a virtual environment (optional but recommended):
