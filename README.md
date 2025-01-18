@@ -15,7 +15,7 @@ Ensure you have the following installed on your system:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/athulya24453/Optimization_Visualizations
    ```
 
 2. Set up a virtual environment (optional but recommended):
@@ -35,18 +35,10 @@ Ensure you have the following installed on your system:
 
 ## Usage
 
-Provide guidance on how to use the repository. For example:
-
-1. After installing the dependencies, run the main script:
+1. After installing the dependencies, run the required script:
 
    ```bash
-   python main.py
-   ```
-
-3. Include examples, if applicable:
-
-   ```bash
-   python main.py --option example
+   python QF.py
    ```
 
 ---
