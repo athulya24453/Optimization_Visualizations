@@ -1,6 +1,6 @@
 # Project Title
 
-"This repository contains Visualization Tools for Optimization and Multivariable Calculus.
+This repository contains Visualization Tools for Optimization and Multivariable Calculus.
 
 ---
 
