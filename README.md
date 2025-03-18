@@ -1,4 +1,4 @@
-# Project Title
+# Optimization Visualizations
 
 This repository contains Visualization Tools for Optimization and Multivariable Calculus.
 
